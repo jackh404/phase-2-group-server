@@ -1,222 +1,83 @@
 {
-  "campers": [
+  "creators": [
     {
-      "id"           : 1,
-      "manufacturer" : "Forest River",
-      "line"         : "Rockwood Signature",
-      "model"        : "8332SB",
-      "source"       : "https://forestriverinc.com/rvs/rockwood-signature-travel-trailers/8332SB/8064",
-      "layoutPic"    : "https://forestriverinc.com/rvs/ImageHandler/256892/2024_2024%20Rockwood%20Signature%20TT%208332SB%20copy.webp",
-      "slideShowPics": 
-      [
-        {
-          "src":"https://forestriverinc.com/rvs/ImageHandler/223133/Signature-TT-8332SB-B-to-F-2.webp",
-          "alt":"living room facing forward"
-        },
-        {
-          "src":"https://forestriverinc.com/rvs/ImageHandler/223134/Signature-TT-8332SB-Bath.webp",
-          "alt":"bathroom"
-        },
-        {
-          "src":"https://forestriverinc.com/rvs/ImageHandler/223135/Signature-TT-8332SB-Bedroom.webp",
-          "alt":"bedroom"
-        },
-        {
-          "src":"https://forestriverinc.com/rvs/ImageHandler/223136/Signature-TT-8332SB-F-to-B-2.webp",
-          "alt":"living room/kitchen facing aft"
-        },
-        {
-          "src":"https://forestriverinc.com/rvs/ImageHandler/223137/Signature-TT-8332SB-F-to-B.webp",
-          "alt":"kitchen facing aft"
-        }
-      ],
-      "length"       : 36.5,
-      "slides"       : 3,
-      "upVotes"      : 0,
-      "downVotes"    : 0
+      "id" :"001",
+      "name" : "Jack Henza",
+      "skills" : ["001","002","003","004"],
+      "projects" : ["001"],
+      "bio" : "I made this"
     },
     {
-      "id"           : 2,
-      "manufacturer" : "Grand Design",
-      "line"         : "Imagine",
-      "model"        : "2670MK",
-      "source"       : "https://www.granddesignrv.com/travel-trailers/imagine/2670mk",
-      "layoutPic"    : "https://raw.githubusercontent.com/jackh404/best-camper-layouts/main/local/2670MK.png",
-      "slideShowPics":
-      [
-        {
-          "src":"https://raw.githubusercontent.com/jackh404/best-camper-layouts/main/local/2670MK-B2F-web.jpg",
-          "alt":"kitchen/living room facing forward"
-        },
-        {
-          "src":"https://raw.githubusercontent.com/jackh404/best-camper-layouts/main/local/2670MK-Bathroom-web.jpg",
-          "alt":"bathroom"
-        },
-        {
-          "src":"https://raw.githubusercontent.com/jackh404/best-camper-layouts/main/local/2670MK-Bedroom-web.jpg",
-          "alt":"bedroom"
-        }
-      ],
-      "length"       : 32,
-      "slides"       : 2,
-      "upVotes"      : 0,
-      "downVotes"    : 0
+      "id" :"002",
+      "name" : "Shal Malhotra",
+      "skills" : ["001","002","003"],
+      "projects" : ["001"],
+      "bio" : "I made this"
     },
     {
-      "id"           : 3,
-      "manufacturer" : "Jayco",
-      "line"         : "Jay Flight",
-      "model"        : "34RSBS",
-      "source"       : "https://www.jayco.com/rvs/travel-trailers/2022-jay-flight/34rsbs/",
-      "layoutPic"    : "https://www.jayco.com/uploads/rvs/floorplans/6694-34RSBS.png",
-      "slideShowPics":
-      [
-        {
-          "src":"https://www.jayco.com/uploads/rvs/images/117801-img-MY22_Jay-Flight-34RLOK_BTF_mountains_WEB.jpg",
-          "alt":"kitchen facing forward"
-        },
-        {
-          "src":"https://www.jayco.com/uploads/rvs/images/117802-img-MY22_Jay-Flight-34RLOK_bed_WEB-copy.jpg",
-          "alt":"bedroom"
-        },
-        {
-          "src":"https://www.jayco.com/uploads/rvs/images/117805-img-MY22_Jay-Flight-34RLOK_Entertainment_WEB-copy.jpg",
-          "alt":"living room facing left"
-        },
-        {
-          "src":"https://www.jayco.com/uploads/rvs/images/117806-img-MY22_Jay-Flight-34RLOK_FTB_mountains_WEB.jpg",
-          "alt":"kitchen/living room facing aft"
-        },
-        {
-          "src":"https://www.jayco.com/uploads/rvs/images/117807-img-MY22_Jay-Flight-34RLOK_Kitchen_WEB-copy.jpg",
-          "alt":"kitchen"
-        }
-    ],
-      "length"       : 37.5,
-      "slides"       : 3,
-      "upVotes"      : 0,
-      "downVotes"    : 0
+      "id" :"003",
+      "name" : "Matthew Sandor",
+      "skills" : ["001","002","003"],
+      "projects" : ["001"],
+      "bio" : "I made this"
+    }
+  ],
+  "projects":[
+    {
+      "id":"001",
+      "name":"The All-Forge",
+      "creators":["001","002","003"],
+      "description":"An app that helps creators/hobbyists connect with creators of other/and or similar interests to pursue and complete projects within the field of their interests"
+    }
+  ],
+  "skills":[
+    {
+      "id":"001",
+      "name":"full stack development"
     },
     {
-      "id"           : 4,
-      "manufacturer" : "Prime Time",
-      "line"         : "LaCrosse",
-      "model"        : "3411RK",
-      "source"       : "https://primetimerv.com/lacrosse/3411RK/8937",
-      "layoutPic"    : "https://primetimerv.com/ImageHandler/259995/2024_Lacrosse%203411RK.webp",
-      "slideShowPics":
-      [
-        {
-          "src":"https://primetimerv.com/ImageHandler/226220/Lacrosse-3411RK-10112022_135806.webp",
-          "alt":"kitchen facing aft"
-        },
-        {
-          "src":"https://primetimerv.com/ImageHandler/226221/Lacrosse-3411RK-10112022_135822.webp",
-          "alt":"kitchen"
-        },
-        {
-          "src":"https://primetimerv.com/ImageHandler/226222/Lacrosse-3411RK-10112022_135828.webp",
-          "alt":"living room facing forward"
-        },
-        {
-          "src":"https://primetimerv.com/ImageHandler/226225/Lacrosse-3411RK-10112022_135851.webp",
-          "alt":"living room facing right"
-        },
-        {
-          "src":"https://primetimerv.com/ImageHandler/226226/Lacrosse-3411RK-10112022_135910.webp",
-          "alt":"bedroom"
-        },
-        {
-          "src":"https://primetimerv.com/ImageHandler/226227/Lacrosse-3411RK-10112022_135938.webp",
-          "alt":"bathroom"
-        }
-      ],
-      "length"       : 39,
-      "slides"       : 3,
-      "upVotes"      : 0,
-      "downVotes"    : 0
+      "id":"002",
+      "name":"front end development"
     },
     {
-      "id"           : 5,
-      "manufacturer" : "Forest River",
-      "line"         : "Flagstaff",
-      "model"        : "826RBS",
-      "source"       : "https://forestriverinc.com/rvs/flagstaff-classic-travel-trailers/826RBS/8028",
-      "layoutPic"    : "https://forestriverinc.com/rvs/ImageHandler/256597/2024_2024%20Flagstaff%20Classic%20TT%20826RBS%20copy.webp",
-      "slideShowPics":
-      [
-        {
-          "src":"https://forestriverinc.com/rvs/ImageHandler/237508/2023-Flagstaff-Classic-826RBS-12022022_164229.webp",
-          "alt":"living room/kitchen facing forward"
-        },
-        {
-          "src":"https://forestriverinc.com/rvs/ImageHandler/237509/2023-Flagstaff-Classic-826RBS-12022022_164319.webp",
-          "alt":"bedroom"
-        },
-        {
-          "src":"https://forestriverinc.com/rvs/ImageHandler/237510/2023-Flagstaff-Classic-826RBS-12022022_164328.webp",
-          "alt":"bedroom facing right"
-        },
-        {
-          "src":"https://forestriverinc.com/rvs/ImageHandler/237511/2023-Flagstaff-Classic-826RBS-12022022_164342.webp",
-          "alt":"kitchen/living room facing aft"
-        },
-        {
-          "src":"https://forestriverinc.com/rvs/ImageHandler/237512/2023-Flagstaff-Classic-826RBS-12022022_164355.webp",
-          "alt":"bathroom"
-        }
-      ],
-      "length"       : 30,
-      "slides"       : 2,
-      "upVotes"      : 0,
-      "downVotes"    : 0
+      "id":"003",
+      "name":"back end development"
     },
     {
-      "id"           : 6,
-      "manufacturer" : "Keystone",
-      "line"         : "Couger Half-Ton",
-      "model"        : "34TSB",
-      "source"       : "https://www.keystonerv.com/product/cougar-half-ton/luxury-travel-trailers/floorplans/34TSB",
-      "layoutPic"    : "https://images.prismic.io/keystone-rv-dealer-app/414055cf-899d-45c6-a87e-bb43fc5fbad6_CGHT_34TSB_2024.png",
-      "slideShowPics":
-      [
-        {
-          "src":"https://images.rvs.com/CNC/2172470/1000x/2023_keystone_cougar_34tsb_cnc2172470_3.jpg",
-          "alt":"kitchen/living room facing aft"
-        },
-        {
-          "src":"https://images.rvs.com/CNC/2172470/1000x/2023_keystone_cougar_34tsb_cnc2172470_4.jpg",
-          "alt":"living room/kitchen facing forward"
-        },
-        {
-          "src":"https://images.rvs.com/CNC/2172470/1000x/2023_keystone_cougar_34tsb_cnc2172470_6.jpg",
-          "alt":"kitchen"
-        },
-        {
-          "src":"https://images.rvs.com/CNC/2172470/1000x/2023_keystone_cougar_34tsb_cnc2172470_7.jpg",
-          "alt":"bunkroom/storage facing aft"
-        },
-        {
-          "src":"https://images.rvs.com/CNC/2172470/1000x/2023_keystone_cougar_34tsb_cnc2172470_8.jpg",
-          "alt":"bunkroom facing left"
-        },
-        {
-          "src":"https://images.rvs.com/CNC/2172470/1000x/2023_keystone_cougar_34tsb_cnc2172470_9.jpg",
-          "alt":"bunkroom facing right"
-        },
-        {
-          "src":"https://images.rvs.com/CNC/2172470/1000x/2023_keystone_cougar_34tsb_cnc2172470_10.jpg",
-          "alt":"bathroom"
-        },
-        {
-          "src":"https://images.rvs.com/CNC/2172470/1000x/2023_keystone_cougar_34tsb_cnc2172470_11.jpg",
-          "alt":"bedroom"
-        }
-      ],
-      "length"       : 37.5,
-      "slides"       : 3,
-      "upVotes"      : 0,
-      "downVotes"    : 0
+      "id":"004",
+      "name":"video editing"
+    },
+    {
+      "id":"005",
+      "name":"piano"
+    },
+    {
+      "id":"006",
+      "name":"digital art"
+    },
+    {
+      "id":"007",
+      "name":"electric guitar"
+    },
+    {
+      "id":"008",
+      "name":"acoustic guitar"
+    },
+    {
+      "id":"009",
+      "name":"oil painting"
+    },
+    {
+      "id":"010",
+      "name":"sound mastering"
+    },
+    {
+      "id":"011",
+      "name":"bass guitar"
+    },
+    {
+      "id":"012",
+      "name":"makeup"
     }
   ]
 }
