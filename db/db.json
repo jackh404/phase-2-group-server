@@ -1,82 +1,82 @@
 {
   "creators": [
     {
-      "id" :"001",
+      "id" :1,
       "name" : "Jack Henza",
-      "skills" : ["001","002","003","004"],
-      "projects" : ["001"],
+      "skills" : [1,2,3,4],
+      "projects" : [1],
       "bio" : "I made this"
     },
     {
-      "id" :"002",
+      "id" :2,
       "name" : "Shal Malhotra",
-      "skills" : ["001","002","003"],
-      "projects" : ["001"],
+      "skills" : [1,2,3],
+      "projects" : [1],
       "bio" : "I made this"
     },
     {
-      "id" :"003",
+      "id" :3,
       "name" : "Matthew Sandor",
-      "skills" : ["001","002","003"],
-      "projects" : ["001"],
+      "skills" : [1,2,3],
+      "projects" : [1],
       "bio" : "I made this"
     }
   ],
   "projects":[
     {
-      "id":"001",
+      "id":1,
       "name":"The All-Forge",
-      "creators":["001","002","003"],
+      "creators":[1,2,3],
       "description":"An app that helps creators/hobbyists connect with creators of other/and or similar interests to pursue and complete projects within the field of their interests"
     }
   ],
   "skills":[
     {
-      "id":"001",
+      "id":1,
       "name":"full stack development"
     },
     {
-      "id":"002",
+      "id":2,
       "name":"front end development"
     },
     {
-      "id":"003",
+      "id":3,
       "name":"back end development"
     },
     {
-      "id":"004",
+      "id":4,
       "name":"video editing"
     },
     {
-      "id":"005",
+      "id":5,
       "name":"piano"
     },
     {
-      "id":"006",
+      "id":6,
       "name":"digital art"
     },
     {
-      "id":"007",
+      "id":7,
       "name":"electric guitar"
     },
     {
-      "id":"008",
+      "id":8,
       "name":"acoustic guitar"
     },
     {
-      "id":"009",
+      "id":9,
       "name":"oil painting"
     },
     {
-      "id":"010",
+      "id":10,
       "name":"sound mastering"
     },
     {
-      "id":"011",
+      "id":11,
       "name":"bass guitar"
     },
     {
-      "id":"012",
+      "id":12,
       "name":"makeup"
     }
   ]
