@@ -28,7 +28,9 @@
       "name":"The All-Forge",
       "creators":[1,2,3],
       "description":"An app that helps creators/hobbyists connect with creators of other/and or similar interests to pursue and complete projects within the field of their interests",
-      "skills-required": [1,2,3]
+      "skills-required": [1,2,3],
+      "start-date": "2023-11-3",
+      "date-complete": ""
     }
   ],
   "skills":[
