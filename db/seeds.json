@@ -2,6 +2,8 @@
   "creators": [
     {
       "id" :1,
+      "userName" : "jack",
+      "pass" : "ScoobyDoo",
       "name" : "Jack Henza",
       "skills" : [1,2,3,4],
       "projects" : [1],
@@ -9,6 +11,8 @@
     },
     {
       "id" :2,
+      "userName" : "shal",
+      "pass" : "ScoobyDoo",
       "name" : "Shal Malhotra",
       "skills" : [1,2,3],
       "projects" : [1],
@@ -16,6 +20,8 @@
     },
     {
       "id" :3,
+      "userName" : "matt",
+      "pass" : "ScoobyDoo",
       "name" : "Matthew Sandor",
       "skills" : [1,2,3],
       "projects" : [1],
