@@ -1,8 +1,7 @@
 {
   "creators": [
     {
-      "id" :1,
-      "userName" : "jack",
+      "id" :"jack",
       "pass" : "ScoobyDoo",
       "name" : "Jack Henza",
       "skills" : [1,2,3,4],
@@ -10,8 +9,7 @@
       "bio" : "I made this"
     },
     {
-      "id" :2,
-      "userName" : "shal",
+      "id" :"shal",
       "pass" : "ScoobyDoo",
       "name" : "Shal Malhotra",
       "skills" : [1,2,3],
@@ -19,8 +17,7 @@
       "bio" : "I made this"
     },
     {
-      "id" :3,
-      "userName" : "matt",
+      "id" : "matt",
       "pass" : "ScoobyDoo",
       "name" : "Matthew Sandor",
       "skills" : [1,2,3],
@@ -32,7 +29,7 @@
     {
       "id":1,
       "name":"The All-Forge",
-      "creators":[1,2,3],
+      "creators":["jack","shal","matt"],
       "description":"An app that helps creators/hobbyists connect with creators of other/and or similar interests to pursue and complete projects within the field of their interests",
       "skills-required": [1,2,3],
       "start-date": "2023-11-3",
