@@ -2,6 +2,7 @@
   "creators": [
     {
       "id" :1,
+      "img" : "./assets/img/icon.png",
       "name" : "Jack Henza",
       "skills" : [1,2,3,4],
       "projects" : [1],
@@ -9,13 +10,15 @@
     },
     {
       "id" :2,
+      "img": "./assets/img/icon.png",
       "name" : "Shal Malhotra",
       "skills" : [1,2,3],
       "projects" : [1],
-      "bio" : "I made this"
+      "bio" : "Electric Guitar enthusiast turned software developer, looking for a fellow musician to collaborate on several audio engineering projects"
     },
     {
       "id" :3,
+      "img" : "./assets/img/icon.png",
       "name" : "Matthew Sandor",
       "skills" : [1,2,3],
       "projects" : [1],
