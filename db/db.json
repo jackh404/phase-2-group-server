@@ -55,6 +55,10 @@
   ],
   "skills":[
     {
+      "id":0,
+      "name":"dummy skill"
+    },
+    {
       "id":1,
       "name":"full stack development"
     },
