@@ -54,57 +54,18 @@
     }
   ],
   "skills":[
-    {
-      "id":0,
-      "name":"dummy skill"
-    },
-    {
-      "id":1,
-      "name":"full stack development"
-    },
-    {
-      "id":2,
-      "name":"front end development"
-    },
-    {
-      "id":3,
-      "name":"back end development"
-    },
-    {
-      "id":4,
-      "name":"video editing"
-    },
-    {
-      "id":5,
-      "name":"piano"
-    },
-    {
-      "id":6,
-      "name":"digital art"
-    },
-    {
-      "id":7,
-      "name":"electric guitar"
-    },
-    {
-      "id":8,
-      "name":"acoustic guitar"
-    },
-    {
-      "id":9,
-      "name":"oil painting"
-    },
-    {
-      "id":10,
-      "name":"sound mastering"
-    },
-    {
-      "id":11,
-      "name":"bass guitar"
-    },
-    {
-      "id":12,
-      "name":"makeup"
-    }
+    "dummy skill",
+    "full stack development",
+    "front end development",
+    "back end development",
+    "video editing",
+    "piano",
+    "digital art",
+    "electric guitar",
+    "acoustic guitar",
+    "oil painting",
+    "sound mastering",
+    "bass guitar",
+    "makeup"
   ]
 }
