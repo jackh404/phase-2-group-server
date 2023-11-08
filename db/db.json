@@ -3,7 +3,7 @@
     {
       "id" :"jack",
       "pass" : "ScoobyDoo",
-      "img" : "./assets/img/icon.png",
+      "img" : "./assets/img/jack-icon.png",
       "name" : "Jack Henza",
       "skills" : [1,2,3,4],
       "projects" : [1],
@@ -12,7 +12,7 @@
     {
       "id" :"shal",
       "pass" : "ScoobyDoo",
-      "img": "./assets/img/icon.png",
+      "img": "./assets/img/shal-icon.png",
       "name" : "Shal Malhotra",
       "skills" : [1,2,3],
       "projects" : [1],
