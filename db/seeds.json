@@ -1,59 +1,59 @@
 {
   "creators": [
     {
-      "id" :"jack",
-      "pass" : "ScoobyDoo",
-      "img" : "https://ccserver-obi1.onrender.com/assets/img/jack-icon.png",
-      "name" : "Jack Henza",
-      "skills" : [1,2,3,4],
-      "projects" : [1],
-      "bio" : "I made this"
+      "id": "jack",
+      "pass": "ScoobyDoo",
+      "img": "https://ccserver-obi1.onrender.com/assets/img/jack-icon.png",
+      "name": "Jack Henza",
+      "skills": [1, 2, 3, 4],
+      "projects": [1],
+      "bio": "I made this"
     },
     {
-      "id" :"shal",
-      "pass" : "ScoobyDoo",
+      "id": "shal",
+      "pass": "ScoobyDoo",
       "img": "https://ccserver-obi1.onrender.com/assets/img/shal-icon.png",
-      "name" : "Shal Malhotra",
-      "skills" : [1,2,3],
-      "projects" : [1],
-      "bio" : "Electric Guitar enthusiast turned software developer, looking for a fellow musician to collaborate on several audio engineering projects"
+      "name": "Shal Malhotra",
+      "skills": [1, 2, 3],
+      "projects": [1],
+      "bio": "Electric Guitar enthusiast turned software developer, looking for a fellow musician to collaborate on several audio engineering projects"
     },
     {
-      "id" : "matt",
-      "pass" : "ScoobyDoo",
-      "img" : "https://ccserver-obi1.onrender.com/assets/img/icon.png",
-      "name" : "Matthew Sandor",
-      "skills" : [1,2,3],
-      "projects" : [1],
-      "bio" : "I made this"
+      "id": "matt",
+      "pass": "ScoobyDoo",
+      "img": "https://ccserver-obi1.onrender.com/assets/img/icon.png",
+      "name": "Matthew Sandor",
+      "skills": [1, 2, 3],
+      "projects": [1],
+      "bio": "I made this"
     }
   ],
-  "projects":[
+  "projects": [
     {
-      "id":1,
-      "name":"The All-Forge",
-      "creators":["jack","shal","matt"],
-      "description":"An app that helps creators/hobbyists connect with creators of other/and or similar interests to pursue and complete projects within the field of their interests",
-      "skillsRequired": [1,2,3],
-      "image":"https://imgs.search.brave.com/HK18d27GqHDPABVlQ3-7Xm0qRZ6Y2BU-_9tOZ5pWBr8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNjgy/NzAzMTI2L3Bob3Rv/L3Rvb2xzLWluLXRo/ZS1mb3JnZS5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9UFp3/aVA4aFBhcnI5ZnVx/c1V0djdmT2YxNkVE/eVgwT2x2eGNpSU9m/NC1qbz0",
+      "id": 1,
+      "name": "The All-Forge",
+      "creators": ["jack", "shal", "matt"],
+      "description": "An app that helps creators/hobbyists connect with creators of other/and or similar interests to pursue and complete projects within the field of their interests",
+      "skillsRequired": [1, 2, 3],
+      "image": "https://imgs.search.brave.com/HK18d27GqHDPABVlQ3-7Xm0qRZ6Y2BU-_9tOZ5pWBr8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNjgy/NzAzMTI2L3Bob3Rv/L3Rvb2xzLWluLXRo/ZS1mb3JnZS5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9UFp3/aVA4aFBhcnI5ZnVx/c1V0djdmT2YxNkVE/eVgwT2x2eGNpSU9m/NC1qbz0",
       "startDate": "2023-11-3",
-      "likes":"0",
+      "likes": "0",
       "dateComplete": "",
-      "emoji":[1,2,3,4]
+      "emoji": [1, 2, 3, 4]
     },
     {
-      "id":2,
-      "name":"The All-Dummy",
-      "creators":[1,2,3],
-      "description":"this is dummy project so I can fool around with css and such and know wtf I am doing",
-      "skillsRequired": [1,2,3],
-      "image":"https://imgs.search.brave.com/HK18d27GqHDPABVlQ3-7Xm0qRZ6Y2BU-_9tOZ5pWBr8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNjgy/NzAzMTI2L3Bob3Rv/L3Rvb2xzLWluLXRo/ZS1mb3JnZS5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9UFp3/aVA4aFBhcnI5ZnVx/c1V0djdmT2YxNkVE/eVgwT2x2eGNpSU9m/NC1qbz0",
+      "id": 2,
+      "name": "The All-Dummy",
+      "creators": ["jack", "shal", "matt"],
+      "description": "this is dummy project so I can fool around with css and such and know wtf I am doing",
+      "skillsRequired": [1, 2, 3],
+      "image": "https://imgs.search.brave.com/HK18d27GqHDPABVlQ3-7Xm0qRZ6Y2BU-_9tOZ5pWBr8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNjgy/NzAzMTI2L3Bob3Rv/L3Rvb2xzLWluLXRo/ZS1mb3JnZS5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9UFp3/aVA4aFBhcnI5ZnVx/c1V0djdmT2YxNkVE/eVgwT2x2eGNpSU9m/NC1qbz0",
       "startDate": "2023-11-3",
-      "likes":"0",
+      "likes": "0",
       "dateComplete": ""
     }
   ],
-  "skills":[
+  "skills": [
     "full stack development",
     "front end development",
     "back end development",
