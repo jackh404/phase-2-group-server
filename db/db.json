@@ -6,7 +6,7 @@
       "img": "https://ccserver-obi1.onrender.com/assets/img/jack-icon.png",
       "name": "Jack Henza",
       "skills": [1, 2, 3, 4],
-      "projects": [1, 4, 6],
+      "projects": [1, 4],
       "bio": "I made this"
     },
     {
@@ -15,7 +15,7 @@
       "img": "https://ccserver-obi1.onrender.com/assets/img/shal-icon.png",
       "name": "Shal Malhotra",
       "skills": [1, 2, 3],
-      "projects": [1, 2, 4, 6],
+      "projects": [1, 2, 4],
       "bio": "Electric Guitar enthusiast turned software developer, looking for a fellow musician to collaborate on several audio engineering projects"
     },
     {
@@ -24,8 +24,16 @@
       "img": "https://ccserver-obi1.onrender.com/assets/img/icon.png",
       "name": "Matthew Sandor",
       "skills": [1, 2, 3],
-      "projects": [1, 2, 4, 5, 6],
+      "projects": [1, 2, 4],
       "bio": "I made this"
+    },{
+      "id" :"dan",
+      "pass" : "scoobydoo",
+      "img" : "https://th.bing.com/th/id/OIG.cqfX3dPW26IikXqPL3lO?pid=ImgGn&w=1024&h=1024&rs=1",
+      "name" : "Dan Hackworth",
+      "skills" : [1,2,3],
+      "projects" : [],
+      "bio" : "also known as father code"
     },
     {
       "id": "miller",
@@ -82,22 +90,6 @@
       "startDate": "2023-11-3",
       "likes": "0",
       "dateComplete": ""
-    },
-    {
-      "name": "the happy dwarf",
-      "description": "this little goofy guy is a goof ball",
-      "skillsRequired": ["17"],
-      "image": "https://th.bing.com/th/id/OIG.8XxN6o5lc9y.x0EjgiQa?w=270&h=270&c=6&r=0&o=5&pid=ImgGn",
-      "creators": ["matt"],
-      "id": 5
-    },
-    {
-      "name": "moto moto",
-      "description": "moto moto likes you",
-      "skillsRequired": ["3", "8", "10"],
-      "image": "https://i1.sndcdn.com/artworks-000494815590-7y8nlq-t500x500.jpg",
-      "creators": ["matt", "jack", "shal"],
-      "id": 6
     }
   ],
   "skills": [
