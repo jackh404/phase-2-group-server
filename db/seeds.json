@@ -6,7 +6,7 @@
       "img": "https://ccserver-obi1.onrender.com/assets/img/jack-icon.png",
       "name": "Jack Henza",
       "skills": [1, 2, 3, 4],
-      "projects": [1],
+      "projects": [1, 4],
       "bio": "I made this"
     },
     {
@@ -15,7 +15,7 @@
       "img": "https://ccserver-obi1.onrender.com/assets/img/shal-icon.png",
       "name": "Shal Malhotra",
       "skills": [1, 2, 3],
-      "projects": [1],
+      "projects": [1, 2, 4],
       "bio": "Electric Guitar enthusiast turned software developer, looking for a fellow musician to collaborate on several audio engineering projects"
     },
     {
@@ -24,7 +24,7 @@
       "img": "https://ccserver-obi1.onrender.com/assets/img/icon.png",
       "name": "Matthew Sandor",
       "skills": [1, 2, 3],
-      "projects": [1],
+      "projects": [1, 2, 4],
       "bio": "I made this"
     },
     {
