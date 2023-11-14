@@ -71,6 +71,17 @@
       "startDate": "2023-11-3",
       "likes": "0",
       "dateComplete": ""
+    },
+    {
+      "id": 2,
+      "name": "Make Ice Cream",
+      "creators": ["shal", "matt", "jack"],
+      "description": "scroll go brrrr",
+      "skillsRequired": [6, 7, 1, 4],
+      "image": "https://i1.sndcdn.com/artworks-000494815590-7y8nlq-t500x500.jpg",
+      "startDate": "2023-11-3",
+      "likes": "0",
+      "dateComplete": ""
     }
   ],
   "skills": [
