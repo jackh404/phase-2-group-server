@@ -26,6 +26,15 @@
       "skills": [1, 2, 3],
       "projects": [1],
       "bio": "I made this"
+    },
+    {
+      "id": "miller",
+      "pass": "ScoobyDoo",
+      "img": "https://static.wikia.nocookie.net/expanse/images/f/f8/Josephus_Miller_-_Expanse_season_4_promotional_1.png/revision/latest?cb=20191206015115",
+      "name": "Josephus Miller",
+      "skills": [4],
+      "projects": [3],
+      "bio": "No laws on Ceres. Just cops."
     }
   ],
   "projects": [
@@ -51,6 +60,17 @@
       "startDate": "2023-11-3",
       "likes": "0",
       "dateComplete": ""
+    },
+    {
+      "id": 3,
+      "name": "The big case",
+      "creators": ["miller"],
+      "description": "It reaches out it reaches out it reaches out 110 times per second it reaches out and finds nothing.",
+      "skillsRequired": [0],
+      "image": "https://static.wikia.nocookie.net/expanse/images/b/b4/Medinastation1.jpg/revision/latest/scale-to-width-down/1000?cb=20180630121436",
+      "startDate": "2023-11-3",
+      "likes": "0",
+      "dateComplete": ""
     }
   ],
   "skills": [
@@ -65,6 +85,13 @@
     "oil painting",
     "sound mastering",
     "bass guitar",
-    "makeup"
+    "makeup",
+    "vocals",
+    "dance",
+    "set building",
+    "lighting",
+    "cinematography",
+    "camera work",
+    "creative writing"
   ]
 }
