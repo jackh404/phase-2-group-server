@@ -1,68 +1,106 @@
 {
   "creators": [
     {
-      "id" :"jack",
-      "pass" : "ScoobyDoo",
-      "img" : "./assets/img/jack-icon.png",
-      "name" : "Jack Henza",
-      "skills" : [1,2,3,4],
-      "projects" : [1],
-      "bio" : "I made this"
+      "id": "jack",
+      "pass": "ScoobyDoo",
+      "img": "https://ccserver-obi1.onrender.com/assets/img/jack-icon.png",
+      "name": "Jack Henza",
+      "skills": [1, 2, 3, 4],
+      "projects": [1, 4, 6],
+      "bio": "I made this"
     },
     {
-      "id" :"shal",
-      "pass" : "ScoobyDoo",
-      "img": "./assets/img/shal-icon.png",
-      "name" : "Shal Malhotra",
-      "skills" : [1,2,3],
-      "projects" : [1],
-      "bio" : "Electric Guitar enthusiast turned software developer, looking for a fellow musician to collaborate on several audio engineering projects"
+      "id": "shal",
+      "pass": "ScoobyDoo",
+      "img": "https://ccserver-obi1.onrender.com/assets/img/shal-icon.png",
+      "name": "Shal Malhotra",
+      "skills": [1, 2, 3],
+      "projects": [1, 2, 4, 6],
+      "bio": "Electric Guitar enthusiast turned software developer, looking for a fellow musician to collaborate on several audio engineering projects"
     },
     {
-      "id" : "matt",
-      "pass" : "ScoobyDoo",
-      "img" : "./assets/img/icon.png",
-      "name" : "Matthew Sandor",
-      "skills" : [1,2,3],
-      "projects" : [1],
-      "bio" : "I made this"
-    },{
-      "id" :"dan",
-      "pass" : "scoobydoo",
-      "img" : "https://th.bing.com/th/id/OIG.0A_zca2I6nG4QjL2EYob?w=270&h=270&c=6&r=0&o=5&pid=ImgGn",
-      "name" : "Dan Hackworth",
-      "skills" : [1,2,3],
-      "projects" : [],
-      "bio" : "also known as father code"
+      "id": "matt",
+      "pass": "ScoobyDoo",
+      "img": "https://ccserver-obi1.onrender.com/assets/img/icon.png",
+      "name": "Matthew Sandor",
+      "skills": [1, 2, 3],
+      "projects": [1, 2, 4, 5, 6],
+      "bio": "I made this"
+    },
+    {
+      "id": "miller",
+      "pass": "ScoobyDoo",
+      "img": "https://static.wikia.nocookie.net/expanse/images/f/f8/Josephus_Miller_-_Expanse_season_4_promotional_1.png",
+      "name": "Josephus Miller",
+      "skills": [4],
+      "projects": [3],
+      "bio": "No laws on Ceres. Just cops."
     }
   ],
-  "projects":[
+  "projects": [
     {
-      "id":1,
-      "name":"The All-Forge",
-      "creators":["jack","shal","matt"],
-      "description":"An app that helps creators/hobbyists connect with creators of other/and or similar interests to pursue and complete projects within the field of their interests",
-      "skillsRequired": [1,2,3],
-      "image":"https://imgs.search.brave.com/HK18d27GqHDPABVlQ3-7Xm0qRZ6Y2BU-_9tOZ5pWBr8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNjgy/NzAzMTI2L3Bob3Rv/L3Rvb2xzLWluLXRo/ZS1mb3JnZS5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9UFp3/aVA4aFBhcnI5ZnVx/c1V0djdmT2YxNkVE/eVgwT2x2eGNpSU9m/NC1qbz0",
+      "id": 1,
+      "name": "The All-Forge",
+      "creators": ["jack", "shal", "matt"],
+      "description": "An app that helps creators/hobbyists connect with creators of other/and or similar interests to pursue and complete projects within the field of their interests",
+      "skillsRequired": [1, 2, 3],
+      "image": "https://imgs.search.brave.com/HK18d27GqHDPABVlQ3-7Xm0qRZ6Y2BU-_9tOZ5pWBr8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNjgy/NzAzMTI2L3Bob3Rv/L3Rvb2xzLWluLXRo/ZS1mb3JnZS5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9UFp3/aVA4aFBhcnI5ZnVx/c1V0djdmT2YxNkVE/eVgwT2x2eGNpSU9m/NC1qbz0",
       "startDate": "2023-11-3",
-      "likes":"0",
+      "likes": "0",
       "dateComplete": "",
-      "emoji":[1,2,3,4]
+      "emoji": [1, 2, 3, 4]
     },
     {
-      "id":2,
-      "name":"The All-Dummy",
-      "creators":[1,2,3],
-      "description":"this is dummy project so I can fool around with css and such and know wtf I am doing",
-      "skillsRequired": [1,2,3],
-      "image":"https://imgs.search.brave.com/HK18d27GqHDPABVlQ3-7Xm0qRZ6Y2BU-_9tOZ5pWBr8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNjgy/NzAzMTI2L3Bob3Rv/L3Rvb2xzLWluLXRo/ZS1mb3JnZS5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9UFp3/aVA4aFBhcnI5ZnVx/c1V0djdmT2YxNkVE/eVgwT2x2eGNpSU9m/NC1qbz0",
+      "id": 2,
+      "name": "Get the band back together",
+      "creators": ["shal", "matt"],
+      "description": "make a band together",
+      "skillsRequired": [6, 7],
+      "image": "https://imgs.search.brave.com/HK18d27GqHDPABVlQ3-7Xm0qRZ6Y2BU-_9tOZ5pWBr8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNjgy/NzAzMTI2L3Bob3Rv/L3Rvb2xzLWluLXRo/ZS1mb3JnZS5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9UFp3/aVA4aFBhcnI5ZnVx/c1V0djdmT2YxNkVE/eVgwT2x2eGNpSU9m/NC1qbz0",
       "startDate": "2023-11-3",
-      "likes":"0",
+      "likes": "0",
       "dateComplete": ""
+    },
+    {
+      "id": 3,
+      "name": "The big case",
+      "creators": ["miller"],
+      "description": "It reaches out it reaches out it reaches out 110 times per second it reaches out and finds nothing.",
+      "skillsRequired": [0],
+      "image": "https://static.wikia.nocookie.net/expanse/images/b/b4/Medinastation1.jpg/",
+      "startDate": "2023-11-3",
+      "likes": "0",
+      "dateComplete": ""
+    },
+    {
+      "id": 4,
+      "name": "Make Ice Cream",
+      "creators": ["shal", "matt", "jack"],
+      "description": "scroll go brrrr",
+      "skillsRequired": [6, 7, 1, 4],
+      "image": "https://i1.sndcdn.com/artworks-000494815590-7y8nlq-t500x500.jpg",
+      "startDate": "2023-11-3",
+      "likes": "0",
+      "dateComplete": ""
+    },
+    {
+      "name": "the happy dwarf",
+      "description": "this little goofy guy is a goof ball",
+      "skillsRequired": ["17"],
+      "image": "https://th.bing.com/th/id/OIG.8XxN6o5lc9y.x0EjgiQa?w=270&h=270&c=6&r=0&o=5&pid=ImgGn",
+      "creators": ["matt"],
+      "id": 5
+    },
+    {
+      "name": "moto moto",
+      "description": "moto moto likes you",
+      "skillsRequired": ["3", "8", "10"],
+      "image": "https://i1.sndcdn.com/artworks-000494815590-7y8nlq-t500x500.jpg",
+      "creators": ["matt", "jack", "shal"],
+      "id": 6
     }
   ],
-  "skills":[
-    "dummy skill",
+  "skills": [
     "full stack development",
     "front end development",
     "back end development",
@@ -74,6 +112,13 @@
     "oil painting",
     "sound mastering",
     "bass guitar",
-    "makeup"
+    "makeup",
+    "vocals",
+    "dance",
+    "set building",
+    "lighting",
+    "cinematography",
+    "camera work",
+    "creative writing"
   ]
 }
