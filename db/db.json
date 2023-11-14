@@ -26,6 +26,14 @@
       "skills" : [1,2,3],
       "projects" : [1],
       "bio" : "I made this"
+    },{
+      "id" :"dan",
+      "pass" : "scoobydoo",
+      "img" : "https://th.bing.com/th/id/OIG.0A_zca2I6nG4QjL2EYob?w=270&h=270&c=6&r=0&o=5&pid=ImgGn",
+      "name" : "Dan Hackworth",
+      "skills" : [1,2,3],
+      "projects" : [],
+      "bio" : "also known as father code"
     }
   ],
   "projects":[
